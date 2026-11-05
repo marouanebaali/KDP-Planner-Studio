@@ -1,0 +1,6 @@
+{
+  "name": "KDP Planner Studio",
+  "description": "Professional AI-Powered Amazon KDP Paperback Planner & Journal Generator with print-ready PDF export, spine calculator, and KDP preflight validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
